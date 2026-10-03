@@ -1,0 +1,9 @@
+{
+  "city": "Delhi",
+  "country": "India",
+  "month": "mar",
+  "season": "Summer",
+  "temp_c": 23.0,
+  "rain_mm": 17,
+  "recommendation": "Warm and pleasant early summer weather, perfect for outdoor sightseeing!"
+}

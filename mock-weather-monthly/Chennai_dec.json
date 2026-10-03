@@ -1,0 +1,9 @@
+{
+  "city": "Chennai",
+  "country": "India",
+  "month": "dec",
+  "season": "Winter",
+  "temp_c": 25.4,
+  "rain_mm": 157,
+  "recommendation": "Mild winter weather with some lingering rain early in the month, pack a light rain jacket."
+}

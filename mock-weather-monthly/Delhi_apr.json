@@ -1,0 +1,9 @@
+{
+  "city": "Delhi",
+  "country": "India",
+  "month": "apr",
+  "season": "Summer",
+  "temp_c": 29.0,
+  "rain_mm": 13,
+  "recommendation": "Summer heat is rising, sightsee in the morning and stay hydrated through the day."
+}

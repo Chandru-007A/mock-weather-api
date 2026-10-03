@@ -1,0 +1,9 @@
+{
+  "city": "Mumbai",
+  "country": "India",
+  "month": "aug",
+  "season": "Monsoon",
+  "temp_c": 27.3,
+  "rain_mm": 560,
+  "recommendation": "Heavy monsoon showers continue, waterproof footwear and an umbrella are a must."
+}

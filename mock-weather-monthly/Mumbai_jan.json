@@ -1,0 +1,9 @@
+{
+  "city": "Mumbai",
+  "country": "India",
+  "month": "jan",
+  "season": "Winter",
+  "temp_c": 24.0,
+  "rain_mm": 1,
+  "recommendation": "Pleasant winter weather and clear skies, perfect for seaside walks and sightseeing!"
+}

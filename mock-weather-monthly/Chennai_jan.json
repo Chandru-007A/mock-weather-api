@@ -1,0 +1,9 @@
+{
+  "city": "Chennai",
+  "country": "India",
+  "month": "jan",
+  "season": "Winter",
+  "temp_c": 25.0,
+  "rain_mm": 24,
+  "recommendation": "Mild winter weather with little rain, great for beach walks and outdoor sightseeing!"
+}

@@ -1,0 +1,9 @@
+{
+  "city": "Delhi",
+  "country": "India",
+  "month": "jun",
+  "season": "Monsoon",
+  "temp_c": 33.5,
+  "rain_mm": 74,
+  "recommendation": "Extreme heat before the monsoon arrives, stay indoors at midday and keep hydrated."
+}

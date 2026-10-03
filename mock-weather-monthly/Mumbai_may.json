@@ -1,0 +1,9 @@
+{
+  "city": "Mumbai",
+  "country": "India",
+  "month": "may",
+  "season": "Summer",
+  "temp_c": 30.1,
+  "rain_mm": 12,
+  "recommendation": "Hot and very humid before the monsoon, plan outdoor time for early mornings."
+}

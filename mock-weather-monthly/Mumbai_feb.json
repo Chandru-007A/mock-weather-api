@@ -1,0 +1,9 @@
+{
+  "city": "Mumbai",
+  "country": "India",
+  "month": "feb",
+  "season": "Winter",
+  "temp_c": 25.0,
+  "rain_mm": 1,
+  "recommendation": "Dry and comfortable winter days, ideal for exploring markets and heritage sites."
+}

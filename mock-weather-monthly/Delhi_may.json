@@ -1,0 +1,9 @@
+{
+  "city": "Delhi",
+  "country": "India",
+  "month": "may",
+  "season": "Summer",
+  "temp_c": 32.8,
+  "rain_mm": 30,
+  "recommendation": "Very hot summer with strong sun, avoid midday outings and drink plenty of water."
+}

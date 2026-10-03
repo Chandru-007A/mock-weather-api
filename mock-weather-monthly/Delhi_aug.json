@@ -1,0 +1,9 @@
+{
+  "city": "Delhi",
+  "country": "India",
+  "month": "aug",
+  "season": "Monsoon",
+  "temp_c": 30.2,
+  "rain_mm": 233,
+  "recommendation": "The wettest month with heavy monsoon rain, expect waterlogging and keep an umbrella handy."
+}
